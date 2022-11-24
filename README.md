@@ -2,7 +2,7 @@
 - 👀 I’m experienced in DevOps, CICD, engineering efficiency.
 - 🌱 I’m currently learning web3 developement.
 - 💞️ I’m ex-microsoft, ex-alibaba.
-- 📫 You can reach me on lmm333@twitter or nanjinglmm[at]gmail.com
+- ✉️ You can reach me on lmm333@twitter or nanjinglmm[at]gmail.com
 
 <!---
 lmmsoft/lmmsoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
