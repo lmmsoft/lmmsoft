@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lmmsoft)
+
+[![Mingming's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmmsoft)](https://github.com/lmmsoft)
