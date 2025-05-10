@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mingming Lou, born in Nanjing, living in Hong Kong SAR. Previouly, I lived in Shanghai, Hangzhou, Suzhou, Beijing.
+- 👋 Hi, I’m Mingming Lou, born in Nanjing, living in Hong Kong SAR. Previously, I lived in Shanghai, Hangzhou, Suzhou, Beijing.
 - 👀 I’m experienced in DevOps, CICD, engineering efficiency.
 - 🌱 I’m currently learning web3 development.
 - 💞️ I’m ex-microsoft, ex-alibaba, ex-PDD.
